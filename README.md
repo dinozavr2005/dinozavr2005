@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/vladimirbuikliskii
+- 📫 How to reach me dinozavr2005@yandex.ru
+- www.linkedin.com/in/vladimirbuikliskii
 
 <!---
 dinozavr2005/dinozavr2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
