@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- Telegram:@VladimirBuik
+- Telegram: @VladimirBuik
 - Mail: dinozavr2005@yandex.ru
 - LinkedIn www.linkedin.com/in/vladimirbuikliskii
 
