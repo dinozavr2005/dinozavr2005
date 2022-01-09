@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Vladimir
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning Hacking With Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - Telegram: @VladimirBuik
