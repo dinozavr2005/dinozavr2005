@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Vladimir
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Password Libary
+- 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - Telegram: @VladimirBuik
