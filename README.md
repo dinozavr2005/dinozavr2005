@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - Telegram: @VladimirBuik
-- Mail: dinozavr2005@yandex.ru
+- Mail: vladimir.buikliskii@yandex.ru
 - LinkedIn www.linkedin.com/in/vladimirbuikliskii
 
 <!---
